@@ -25,49 +25,49 @@ public class PuntoDeVenta extends Application {
     @FXML
     void editarCliente(ActionEvent event) {
 
-        cargarFormulario("Unidad_3_4/ClientesEditar.fxml");
+        cargarFormulario("ClientesEditar.fxml");
     }
 
     @FXML
     void editarExistencia(ActionEvent event) {
-        cargarFormulario("Unidad_3_4/ExistenciaEditar.fxml");
+        cargarFormulario("ExistenciaEditar.fxml");
     }
 
     @FXML
     void editarProducto(ActionEvent event) {
-        cargarFormulario("Unidad_3_4/ProductosEditar.fxml");
+        cargarFormulario("ProductosEditar.fxml");
     }
 
     @FXML
     void editarProveedor(ActionEvent event) {
-        cargarFormulario("Unidad_3_4/ProveedoresEditar.fxml");
+        cargarFormulario("ProveedoresEditar.fxml");
     }
 
 
 
     @FXML
     void nuevaExistencia(ActionEvent event) {
-        cargarFormulario("Unidad_3_4/ExistenciaNuevo.fxml");
+        cargarFormulario("ExistenciaNuevo.fxml");
     }
 
     @FXML
     void nuevaVenta(ActionEvent event) {
-        cargarFormulario("Unidad_3_4/VentaNueva.fxml");
+        cargarFormulario("VentaNueva.fxml");
     }
 
     @FXML
     void nuevoCliente(ActionEvent event)  {
-        cargarFormulario("Unidad_3_4/ClientesNuevo.fxml");
+        cargarFormulario("ClientesNuevo.fxml");
     }
 
     @FXML
     void nuevoProducto(ActionEvent event)  {
-        cargarFormulario("Unidad_3_4/ProductosNuevo.fxml");
+        cargarFormulario("ProductosNuevo.fxml");
     }
 
     @FXML
     void nuevoProveedor(ActionEvent event)  {
-        cargarFormulario("Unidad_3_4/ProveedoresNuevo.fxml");
+        cargarFormulario("ProveedoresNuevo.fxml");
     }
 
     @FXML
